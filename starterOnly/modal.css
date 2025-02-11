@@ -111,8 +111,6 @@ main {
   margin: 1px 20px 15px;
   border-radius: 2rem;
   text-align: justify;
-
-
 }
 
 .modal-btn {
@@ -448,7 +446,7 @@ input[data-error]::after {
 }
 .btn-signup {
   outline: none;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   font-size: 1.3rem;
   padding: 15px 23px;
   margin: 0;
